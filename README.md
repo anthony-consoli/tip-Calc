@@ -7,7 +7,7 @@
 2. Click on the text field next to bill amount and enter the amount, then click off of the keyboard.
 ![walk2](https://cloud.githubusercontent.com/assets/6476199/11826705/0291aece-a355-11e5-8ede-b3ddd686f83d.gif)
 
-3. Select the amount of ways you would like to split the bill (current default it 0)
+3. Select the amount of ways you would like to split the bill (current default is 0)
 ![walk3](https://cloud.githubusercontent.com/assets/6476199/11826707/04dbf2d4-a355-11e5-8141-b64a2a00c7f3.gif)
 
 
