@@ -1,7 +1,6 @@
 # tip-Calc README
 
 1. First Open the app called tips.
-
 ![walk1](https://cloud.githubusercontent.com/assets/6476199/11826703/0095f102-a355-11e5-88fe-f4cc53307073.gif)
 
 
