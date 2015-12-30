@@ -1,4 +1,28 @@
-# tip-Calc README
+# Pre-work - Tips
+
+Tips is a tip calculator application for iOS.
+
+Submitted by: Anthony Consoli
+
+Time spent: 3 hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
+The following **optional** features are implemented:
+* [x] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+
+- An additional function was added to the app so that a bill can be split between multiple people. An additional field was added to check the amount of people who will be splitting the bill, the app then calculates the tip amount from each person and the total amount from each person.
+
+## Video Walkthrough 
 
 
 1. First Open the app called tips.
@@ -19,3 +43,24 @@
 ![walk5](https://cloud.githubusercontent.com/assets/6476199/11826713/081b00de-a355-11e5-840d-e4e09d6c605e.gif)
 ![walk6](https://cloud.githubusercontent.com/assets/6476199/11826719/0b543a0e-a355-11e5-843a-846b1d30e208.gif)
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+I did not find any significant challenges while building the app. The main challenge was learning my way around xCode as I don’t have much experience with it.
+
+## License
+
+    Copyright [2015] [Anthony Consoli]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
