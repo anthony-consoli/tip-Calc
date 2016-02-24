@@ -3,7 +3,6 @@
 //  tips
 //
 //  Created by Anthony Consoli on 12/12/15.
-//  Copyright (c) 2015 codepath. All rights reserved.
 //
 
 import UIKit
@@ -34,7 +33,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidBecomeActive(application: UIApplication) {
-        // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+        // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the UI.
     }
 
     func applicationWillTerminate(application: UIApplication) {

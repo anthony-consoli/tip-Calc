@@ -3,7 +3,6 @@
 //  tips
 //
 //  Created by Anthony Consoli on 12/12/15.
-//  Copyright (c) 2015 codepath. All rights reserved.
 //
 
 import UIKit
@@ -24,7 +23,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Additional setup after loading the view
         tipLabel.text = "0.00"
         totalLabel.text = "0.00"
         splitTipLabel.text = "0.00"
